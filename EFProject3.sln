@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFProject3", "EFProject3\EFProject3.csproj", "{6182C280-8040-4D28-9B33-9AEFB7A1D324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFProject3API", "EFProject3API\EFProject3API.csproj", "{0D0A6096-EDE2-4FFB-927A-FEB4AE1456F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6182C280-8040-4D28-9B33-9AEFB7A1D324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6182C280-8040-4D28-9B33-9AEFB7A1D324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6182C280-8040-4D28-9B33-9AEFB7A1D324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6182C280-8040-4D28-9B33-9AEFB7A1D324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0A6096-EDE2-4FFB-927A-FEB4AE1456F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0A6096-EDE2-4FFB-927A-FEB4AE1456F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0A6096-EDE2-4FFB-927A-FEB4AE1456F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0A6096-EDE2-4FFB-927A-FEB4AE1456F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

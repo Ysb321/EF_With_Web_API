@@ -1,0 +1,6 @@
+@EFProject3API_HostAddress = http://localhost:5110
+
+GET {{EFProject3API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

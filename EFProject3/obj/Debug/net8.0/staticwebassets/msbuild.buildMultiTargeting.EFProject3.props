@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EFProject3.props" />
+</Project>
