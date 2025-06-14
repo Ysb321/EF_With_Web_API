@@ -1,1 +1,4 @@
-
+More than one DBContext File
+--If selecting perticular DBContext File from Data folder then there are commands
+for nuget Package Manager: add-migration FirstMigration -context EmployeesDbContext then update-database -context EmployeesDbContext
+for CLI or CommandPrompt: dotnet ef migration add add-migration FirstMigration --context EmployeesDbContext then dotnet ef database update --context EmployeeDbContext
